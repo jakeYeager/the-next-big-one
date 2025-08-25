@@ -3,7 +3,7 @@
 
 ## Project Information
 **Project Name**: Legal Fraud Pattern Analysis: Market Crashes from Dubious Financial Innovation  
-**Claude AI Version**: Claude Sonnet 4  
+**Claude AI Version**: Claude Sonnet 4 (claude-sonnet-4-20250514)  
 **Session Date & Time**: August 17, 2025
 
 ## Project Files
